@@ -1,0 +1,9 @@
+def DifficultGame(N, S):
+    for i in S:
+        for k in range(i):
+            if k % 2 == 0:
+                w = "First"
+            else:
+                w = "Second"
+                
+    return w
