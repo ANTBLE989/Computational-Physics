@@ -13,5 +13,6 @@ collection of physical related computational exercises
 
 
 ### For Fun: 
-**Wep Scraping** : web scrapping webpages for 
-**CodeFight**: simple programming exercises
+- **Wep Scraping** : web scrapping webpages for 
+- **CodeFight**: simple programming exercises
+
