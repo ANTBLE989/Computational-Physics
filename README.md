@@ -12,7 +12,3 @@ collection of physical related computational exercises
 7. **Think Complexity - A. Downey**: simplest way to learn science of complex system  
 
 
-### For Fun: 
-- **Wep Scraping** : web scrapping webpages for 
-- **CodeFight**: simple programming exercises
-
